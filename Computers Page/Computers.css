@@ -61,6 +61,7 @@ body{
     text-align: center;
     margin-top: 100px;
     margin-left: 160px;
+    user-select: none;
 }
 .para_div p{
     font-size: 20px;
@@ -73,6 +74,7 @@ body{
     margin-top: 20px;
     margin-left: 160px;
     color: rgb(255, 255, 255);
+    user-select: none;
 }
 .search-bar:active{
     box-shadow:rgb(243, 124, 13) 1px 1px 10px 3px  ;
